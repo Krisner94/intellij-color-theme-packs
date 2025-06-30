@@ -3,7 +3,7 @@
   "displayName": "IntelliJ Color Theme Packs",
   "description": "A collection of IntelliJ-style color themes for VS Code, both native and inspired.",
   "version": "1.0.0",
-  "publisher": "seu-username-aqui",
+  "publisher": "Krisner94",
   "engines": {
     "vscode": "^1.100.0"
   },
@@ -21,12 +21,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/seu-usuario/intellij-color-theme-packs"
+    "url": "https://github.com/Krisner94/intellij-color-theme-packs.git"
   },
   "bugs": {
-    "url": "https://github.com/seu-usuario/intellij-color-theme-packs/issues"
+    "url": "https://github.com/Krisner94/intellij-color-theme-packs/issues"
   },
-  "homepage": "https://github.com/seu-usuario/intellij-color-theme-packs",
+  "homepage": "https://github.com/Krisner94/intellij-color-theme-packs",
   "keywords": [
     "vscode",
     "theme",
