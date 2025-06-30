@@ -37,6 +37,6 @@
     "jetbrains",
     "syntax highlighting"
   ],
-  "icon": "images/icon.png",
+  "icon": "assets/icon.png",
   "license": "MIT"
 }

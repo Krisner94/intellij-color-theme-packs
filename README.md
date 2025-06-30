@@ -1,26 +1,51 @@
-# Pacote de Temas de Cores do IntelliJ
+# IntelliJ Color Theme Packs
 
-## Descrição
+🎨 A collection of IntelliJ-style color themes for Visual Studio Code — including both official JetBrains themes and unique plugin-based variants not available elsewhere.
 
-Este é um pacote de temas de cores para o Visual Studio Code, inspirado nos esquemas de cores nativos e não nativos do IntelliJ.
+![Screenshot](assets/screenshots/screen1.png)
 
-## Instalação
+![Screenshot](assets/screenshots/screen2.png)
 
-1.  Abra o Visual Studio Code.
-2.  Vá para a aba de **Extensões** (ou pressione `Ctrl+Shift+X`).
-3.  Procure por `intellij-color-theme-packs`.
-4.  Clique em **Instalar**.
+![Screenshot](assets/screenshots/screen3.png)
 
-## Ativando o Tema
+![Screenshot](assets/screenshots/screen4.png)
 
-1.  Depois de instalar, abra a **Paleta de Comandos** (`Ctrl+Shift+P`).
-2.  Procure por `Preferências: Tema de Cores` e pressione Enter.
-3.  Selecione **"intellij"** na lista.
+![Screenshot](assets/screenshots/screen5.png)
 
-## Contribuições
+![Screenshot](assets/screenshots/screen6.png)
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
 
-## Licença
+## ✨ About
 
-Este projeto não possui uma licença definida.
+This extension brings the visual elegance of IntelliJ IDEA themes to VS Code — not only the classic styles, but also rare and community-loved themes that exist only as IntelliJ plugins. Expect soft palettes, balanced contrast, and a sleek, modern feel that enhances productivity.
+
+Perfect for developers transitioning from IntelliJ or anyone who enjoys a curated and expanded theme collection beyond the basics.
+
+## 📦 Includes
+
+- Dark and light themes¹ inspired by official JetBrains themes and exclusive IntelliJ plugin themes  
+- Syntax highlighting support for Java, Kotlin, TypeScript, JavaScript, HTML, CSS, and more  
+- Matching UI and editor styles, adapted to resemble the JetBrains experience
+
+---
+
+¹ Light themes and more variants are coming in future updates.
+
+## 🖼️ Screenshots
+
+> Coming soon — preview screenshots with real-world code examples using the included themes.
+
+## 🚀 Installation
+
+1. Visit the [Visual Studio Marketplace](https://marketplace.visualstudio.com/) (link will be added after publishing).
+2. Search for `IntelliJ Color Theme Packs`.
+3. Click **Install**.
+4. Open the VS Code Command Palette (`Ctrl+Shift+P`) and select:  
+   `Preferences: Color Theme` → Choose your favorite IntelliJ-style theme.
+
+## 🔧 Recommended Extensions
+
+If you're looking to tweak or create your own themes based on these, here are some useful tools:
+
+- [Atom Material Icons](https://marketplace.visualstudio.com/items?itemName=AtomMaterial.a-file-icon-vscode) — Atom Material Icons Plugin for VSCode
+
