@@ -3,7 +3,7 @@
   "displayName": "IntelliJ Color Theme Packs",
   "description": "A collection of IntelliJ-style color themes for VS Code, both native and inspired.",
   "version": "1.0.0",
-  "publisher": "Krisner94",
+  "publisher": "RhamaKrisner",
   "engines": {
     "vscode": "^1.100.0"
   },
