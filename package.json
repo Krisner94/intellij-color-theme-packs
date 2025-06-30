@@ -1,0 +1,42 @@
+{
+  "name": "intellij-color-theme-packs",
+  "displayName": "IntelliJ Color Theme Packs",
+  "description": "A collection of IntelliJ-style color themes for VS Code, both native and inspired.",
+  "version": "1.0.0",
+  "publisher": "seu-username-aqui",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "IntelliJ",
+        "uiTheme": "vs-dark",
+        "path": "./themes/intellij.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seu-usuario/intellij-color-theme-packs"
+  },
+  "bugs": {
+    "url": "https://github.com/seu-usuario/intellij-color-theme-packs/issues"
+  },
+  "homepage": "https://github.com/seu-usuario/intellij-color-theme-packs",
+  "keywords": [
+    "vscode",
+    "theme",
+    "color theme",
+    "intellij",
+    "dark",
+    "light",
+    "jetbrains",
+    "syntax highlighting"
+  ],
+  "icon": "images/icon.png",
+  "license": "MIT"
+}
